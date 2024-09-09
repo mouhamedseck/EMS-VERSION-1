@@ -5,15 +5,13 @@
 - Backend:
 
   - Spring Data JPA (with MySQL Database)
-  - Spring Association
   - Spring Security (Basic Authentication)
-  - RESTful APIs/Web Services
+  - RESTful APIs/Web Service Access and Restrictions
 
 - Frontend:
   - Handle Basic Authentication
   - Route Guard
   - Interceptor
-  - RESTful Web Service Access and Restrictions
 
 ## Requirements
 
@@ -42,4 +40,3 @@
    ```
    ng serve
    ```
-# EMS-VERSION-1
